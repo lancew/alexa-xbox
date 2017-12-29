@@ -1,0 +1,27 @@
+{
+  "name": "alexa-xbox",
+  "version": "1.0.0",
+  "description": "Simple tool to turn on xbox via alexa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "xbox"
+  ],
+  "author": "Lance Wicks",
+  "license": "ISC",
+  "dependencies": {
+    "fauxmojs": "^1.0.1",
+    "xbox-on": "0.0.10"
+  },
+  "devDependencies": {
+    "eslint-config-standard": "^11.0.0-beta.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
