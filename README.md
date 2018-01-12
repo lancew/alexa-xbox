@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/alexa-xbox.svg)](https://badge.fury.io/js/alexa-xbox)
 [![Kritika Analysis Status](https://kritika.io/users/lancew/repos/7441030163317893/heads/master/status.svg)](https://kritika.io/users/lancew/repos/7441030163317893/heads/master/)
 [![Known Vulnerabilities](https://snyk.io/test/github/lancew/alexa-xbox/badge.svg?targetFile=package.json)](https://snyk.io/test/github/lancew/alexa-xbox?targetFile=package.json)
 
