@@ -2,6 +2,14 @@
 [![Kritika Analysis Status](https://kritika.io/users/lancew/repos/7441030163317893/heads/master/status.svg)](https://kritika.io/users/lancew/repos/7441030163317893/heads/master/)
 [![Known Vulnerabilities](https://snyk.io/test/github/lancew/alexa-xbox/badge.svg?targetFile=package.json)](https://snyk.io/test/github/lancew/alexa-xbox?targetFile=package.json)
 
+** Deprecation Warning **
+
+Alexa integration is now incorporated into the XBox, so this package is no longer required.
+
+It remains available for informational purposes.
+
+
+
 Installation:
 
 1. Clone the repo.

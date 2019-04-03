@@ -1,6 +1,6 @@
 {
   "name": "alexa-xbox",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "description": "[Deprecated] Simple tool to turn on xbox via alexa - This functionality is now incorporated into Alexa and Xbox themselves",
   "main": "index.js",
   "repository": {
