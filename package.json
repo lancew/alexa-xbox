@@ -21,8 +21,9 @@
   "author": "Lance Wicks",
   "license": "ISC",
   "dependencies": {
-    "fauxmojs": "^1.0.1",
-    "xbox-on": "0.0.10"
+    "fauxmojs": "^1.0.3",
+    "xbox-on": "0.0.10",
+    "cryptiles": ">=4.1.2"
   },
   "devDependencies": {
     "eslint-config-standard": "^11.0.0",
