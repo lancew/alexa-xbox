@@ -12,7 +12,9 @@
   },
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "keywords": [
     "alexa",
@@ -23,7 +25,8 @@
   "dependencies": {
     "fauxmojs": "^1.0.3",
     "xbox-on": "0.0.10",
-    "cryptiles": ">=4.1.2"
+    "cryptiles": ">=4.1.2",
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "eslint-config-standard": "^11.0.0",
@@ -32,5 +35,6 @@
     "eslint-plugin-promise": "^3.7.0",
     "eslint-plugin-standard": "^3.1.0"
   },
-  "homepage": "https://github.com/lancew/alexa-xbox"
+  "homepage": "https://github.com/lancew/alexa-xbox",
+  "snyk": true
 }
